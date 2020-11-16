@@ -8,6 +8,7 @@
  - both players are single jar file so can be easly run on any environment
 Use Maven commands to build 
  cd Java\ Projects-learning/takeaway/player1
+ mvn clean install package
  
  Use command  mvn clean install package to generate jar file in target folder for both player1 and player 2.
  
